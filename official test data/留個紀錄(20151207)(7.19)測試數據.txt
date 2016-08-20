@@ -1,0 +1,37 @@
+runfile('C:/Users/winpython/Documents/fixed_official_convolutional_v1/code/convolutional_mlp.py', wdir='C:/Users/winpython/Documents/fixed_official_convolutional_v1/code')
+... loading data
+... building the model
+... training
+training @ iter =  0
+epoch 1, minibatch 100/100, validation error 9.230000 %
+     epoch 1, minibatch 100/100, test error of best model 9.520000 %
+training @ iter =  100
+epoch 2, minibatch 100/100, validation error 6.180000 %
+     epoch 2, minibatch 100/100, test error of best model 6.500000 %
+training @ iter =  200
+epoch 3, minibatch 100/100, validation error 4.640000 %
+     epoch 3, minibatch 100/100, test error of best model 4.850000 %
+training @ iter =  300
+epoch 4, minibatch 100/100, validation error 3.500000 %
+     epoch 4, minibatch 100/100, test error of best model 3.910000 %
+training @ iter =  400
+epoch 5, minibatch 100/100, validation error 3.020000 %
+     epoch 5, minibatch 100/100, test error of best model 3.260000 %
+training @ iter =  500
+epoch 6, minibatch 100/100, validation error 2.780000 %
+     epoch 6, minibatch 100/100, test error of best model 2.800000 %
+training @ iter =  600
+epoch 7, minibatch 100/100, validation error 2.480000 %
+     epoch 7, minibatch 100/100, test error of best model 2.500000 %
+training @ iter =  700
+epoch 8, minibatch 100/100, validation error 2.290000 %
+     epoch 8, minibatch 100/100, test error of best model 2.220000 %
+training @ iter =  800
+epoch 9, minibatch 100/100, validation error 2.160000 %
+     epoch 9, minibatch 100/100, test error of best model 2.010000 %
+training @ iter =  900
+epoch 10, minibatch 100/100, validation error 1.970000 %
+     epoch 10, minibatch 100/100, test error of best model 1.880000 %
+Optimization complete.
+Best validation score of 1.970000 % obtained at iteration 1000, with test performance 1.880000 %
+The code for file convolutional_mlp.py ran for 20.98m

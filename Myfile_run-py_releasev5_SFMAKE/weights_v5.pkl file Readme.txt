@@ -1,0 +1,18 @@
+For the problem that github can't upload files larger then 100M.
+We found that the origional file size of weights_v5.pkl shows below.
+weights_v5.pkl	pkl file	size:1,684,853
+It's about 1.60GBs.
+For the safe uploading the file, we use 7-zip to compress and seperate file into 100M each.
+So that delete the origional file in able to fit the issue.
+
+If any wants to regenerate the origional file can have a chack about sum below.
+
+チェックサム情報
+名前:weights_v5.pkl 
+サイス:172528918バイト(1645 MB)
+
+CRC32:28C6359 
+CRC64:5E3F27EFE9336CF3 
+SHA2S6:76966733827823A3E8364C15FA23A8AIEF52F33F26C6D0301493AE311E3A73E5 
+SHA1:8143DC77FEAIE30D5573C6DAEFD3A6E3ACB969D 
+3LAKE2sp:C131A4D6FIC3A603559129FOE44FSCA78S4CUFE57E66AA3A0163681763F83AO 
