@@ -28,4 +28,4 @@ After basic set-up, please kindly using python or any python related editor to e
 Every content which been remind in this repo/folder/content(Except the published paper) will been protect under
 "GNU General Public License v3.0" license. Which will also been added to this folder.
 
-Adding and modify by @AkishinoShiame on 2019/8/27 (c)
+Adding and modify by [@AkishinoShiame](https://github.com/AkishinoShiame) on 2019/8/27 (c)
