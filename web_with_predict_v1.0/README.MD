@@ -19,7 +19,7 @@ Information Processing Letters, 128, 14-20.
 Please kindly check on file [weights_v5.pkl file Readme.txt](https://github.com/AkishinoShiame/theano-learning.part02/blob/master/web_with_predict_v1.0/weights_v5.pkl%20file%20Readme.txt)
 before any execution.
 
-After basic set-up, please kindly using python or any python related editor to execute web.py file.
+After basic set-up, please kindly using python or any python related editor to execute `web.py` file.
 
 ## LICENSE
 
